@@ -1,0 +1,30 @@
+body {
+  max-width: 700px;
+  width: 80%;
+  border: 20px solid #bdc3c7;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: Source Sans Pro;
+  letter-spacing: 0.05rem;
+}
+
+aside {
+  color: #3498db;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+
+h2 {
+  color: #2c3e50;
+  font-size: 2.0rem;
+}
+
+article p:nth-of-type(1) {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
+
+hr {
+  color: #bdc3c7;
+  margin-bottom: 20px;
+}
